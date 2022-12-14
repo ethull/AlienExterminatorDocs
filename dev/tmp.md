@@ -1,0 +1,11 @@
+## fps microgame links
+- nav
+  - https://learn.unity.com/tutorial/fps-mod-Create-and-Bake-the-NavMesh#
+- sound
+  - https://learn.unity.com/tutorial/fps-mod-swap-your-sounds?projectId=5d9c91a4edbc2a03209169ab
+- guns
+  - https://learn.unity.com/tutorial/fps-mod-unlock-a-new-sniper-rifle-weapon?projectId=5d9c91a4edbc2a03209169ab
+  - https://learn.unity.com/tutorial/fps-mod-set-up-a-new-burst-rifle-weapon?projectId=5d9c91a4edbc2a03209169ab
+- enemys
+  - https://learn.unity.com/tutorial/fps-mod-tweak-damage-dealt-by-enemies-and-attack-range-new?projectId=5d9c91a4edbc2a03209169ab
+- https://learn.unity.com/tutorial/fps-mod-changing-and-adding-game-objectives?projectId=5d9c91a4edbc2a03209169ab
