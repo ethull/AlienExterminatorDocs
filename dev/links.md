@@ -93,5 +93,13 @@
 - https://www.reddit.com/r/Unity3D/comments/algavs/unityaction_vs_unityevent/
 - https://forum.unity.com/threads/hitscan-projectiles.146760/
 - https://simonleen.medium.com/game-manager-in-unity-part-1-1aafae6670ec
-
-
+- https://stackoverflow.com/questions/35720902/getting-child-object-of-gameobject-in-unity
+- https://answers.unity.com/questions/183649/how-to-find-a-child-gameobject-by-name.html
+- https://stackoverflow.com/questions/67411554/how-to-change-text-by-script-in-unity
+- https://soundbible.com/ //getting sfx sounds
+- https://stackoverflow.com/questions/40358698/unity-script-execution-order-and-start
+### c#
+- https://www.programiz.com/csharp-programming/type-conversion
+- https://www.programiz.com/csharp-programming/library/string/format
+- https://stackoverflow.com/questions/16265247/printing-all-contents-of-array-in-c-sharp
+- https://stackoverflow.com/questions/1014005/how-to-populate-instantiate-a-c-sharp-array-with-a-single-value

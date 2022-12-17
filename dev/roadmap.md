@@ -1,5 +1,5 @@
 # roadmap
-## initial
+## initial -
 - gather resources: assets, tutorials, EG projects
 - import assets collected
 - go through learning resources
@@ -18,22 +18,19 @@
   - map spawn points -
     - add > 1 spawn point -
     - get enemys to roam through the town -
-  - spawn certain number of enemys -
-    - over time
-    - relative to progress in level
 - enemy functionality: more
-  - enemy can reduce player health
+  - enemy can reduce player health -
   - more AI behaviour and fsm animations
+    - make them patrol through town -
 
 ### step 2 shooting
-- add gun
+- add gun -
   - player can hold gun
   - gun can shoot
   - if hits enemy damage/kill it
-- enemy
+- enemy -
   - take damage / health
   - death
-  - drops
 
 ### step 3 basic requirements
 - add hud
@@ -42,23 +39,33 @@
   - remaining enemys / enemys left indicator
 - add menus
   - basic menu for start and exit screens
+- add sounds and effects to existing features
 
 ### step 4 additional
+- add level flow
+  - spawn certain number of enemys -
+    - over time
+    - relative to progress in level
+  - adjust enemy spawning for diff levels
 - add more enemys
   - boss: alien tripod?
   - ranged enemy (more hitscan ballistics)
+- add fun mechanic
+  - drops
+  - pickups
+    - ammo, coins
 - add progression
+  - player inventory
   - multiple guns
-    - swap guns
+    - swap guns -
     - diff types
   - gun upgrades?
   - persistent save player guns to json
 
 ### step 5 time
-- add multiple levels
-  - adjust enemy spawning for diff levels
+- fix application bugs
 - add new map
-  - make new map with new levels
+  - add multiple levels to new map
 - add game optimisations
   - event managers
   - ...
