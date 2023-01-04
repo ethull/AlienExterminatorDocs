@@ -39,9 +39,16 @@
     - sfx and vfx
 
 ### order
+-  shooting
 - play menu
+- pause menu
+- reset progress
 - gun shooting
 - enemy damage
+- collect first gun
+-level complete
+- spawning
+
 
 ### what parts of the game need to be in video
 - 3 features
@@ -51,3 +58,22 @@
 - https://www.reddit.com/r/software/
 - https://www.reddit.com/r/Filmmakers/
 - https://www.reddit.com/r/editors
+
+## scripts part of video
+- ai
+    - Insect Controller.cs
+    - State.cs
+    - patrol and GameEnvironment.cs
+    - Chase, ChaseAttack, GetHit
+- game progression
+    - MainManager.cs
+    - LevelManger.cs
+    - LevelSelecUIManager.cs
+    - InsectSpawner.cs
+    - Inventory.cs
+- guns and health
+    - gun functionality / raycasting: Gun.cs
+    - gun switcher: WeaponSwitcher.cs
+    - weapon pickups: WeaponPickup.cs
+    - Health.cs -> PlayerController.cs
+    - Inventory
