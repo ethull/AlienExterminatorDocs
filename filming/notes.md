@@ -85,7 +85,7 @@
 - enemy detection
 - enemy follow and attack
 - varied animations for different states
-#### level progression
+#### level progression (game progression)
 - menu
     - show diff levels
     - saving data
@@ -94,7 +94,7 @@
     - enemy spawning relative to level
     - spawn rate
     - more spawners
-#### guns and health (raycasting)
+#### guns and health (raycasting, game mechanics)
 - gun raycasting hitscan
 - a weapon to pickup in each level
 - save picked up weapons in inventory

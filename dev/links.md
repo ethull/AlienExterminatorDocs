@@ -1,7 +1,19 @@
 ## help
 ### other
 - https://starwarfare.fandom.com/wiki
+### health script
+- https://docs.unity3d.com/ScriptReference/Mathf.Clamp.html
+- https://www.reddit.com/r/Unity2D/comments/m70vsu/unityevent_vs_unityaction/
+### making pickups bob up and down
+- https://gamedev.stackexchange.com/questions/96878/how-to-animate-objects-with-bobbing-up-and-down-motion-in-unity
+- https://docs.unity3d.com/ScriptReference/Time-time.html
+- https://docs.unity3d.com/ScriptReference/Time-deltaTime.html
+- https://www.math.net/sine
+### persist data between sessions and scenes
+- https://learn.unity.com/tutorial/implement-data-persistence-between-scenes#634f8281edbc2a65c86270c6
+- https://learn.unity.com/tutorial/awake-and-start#6356245fedbc2a0ce929bc68
 ### pathfinding
+- https://learn.unity.com/project/finite-state-machines-1
 ### fsm / animation
 - https://www.youtube.com/watch?v=g8NwELskdv0
 - https://www.youtube.com/watch?v=8Pk7FI629O8
@@ -14,6 +26,9 @@
 - https://www.youtube.com/watch?v=Nke5JKPiQTw
 - https://www.youtube.com/watch?v=THnivyG0Mvo
 - https://www.youtube.com/watch?v=Dn_BUIVdAPg
+#### guns script / raycasting
+- https://docs.unity3d.com/ScriptReference/RaycastHit.html
+- https://docs.unity3d.com/ScriptReference/Quaternion.html
 ## assets
 - https://assetstore.unity.com/account/assets
 - https://assetstore.unity.com/top-assets/top-free
